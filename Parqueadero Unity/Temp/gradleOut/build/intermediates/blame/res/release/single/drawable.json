@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/beaba3786c395b43f03708773b2b79106d77f778/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/beaba3786c395b43f03708773b2b79106d77f778/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/beaba3786c395b43f03708773b2b79106d77f778/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/beaba3786c395b43f03708773b2b79106d77f778/output/res/drawable/notification_tile_bg.xml"
+    }
+]

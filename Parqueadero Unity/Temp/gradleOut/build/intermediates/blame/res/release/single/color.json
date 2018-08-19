@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/res/color/common_google_signin_btn_tint.xml"
+    }
+]

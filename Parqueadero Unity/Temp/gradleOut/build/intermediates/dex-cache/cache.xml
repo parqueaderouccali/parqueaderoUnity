@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/cefa4e87f80ef00ba14ee791a95b84927f61f72d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6254bade2992d8c2b1939cc6fb948c689be005e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/4e16ba21b729268c50faf982b84c1de4d6bf0402/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6567befd760c3b9e97a8944445885de22c7f903e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/49d693b458b7f55d41495bbd6c6859325796a707/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0593da2e272992852e1bc3522e685f17af153e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/f1b5b5177b499f7a59eae79a9fbbc176d2f99e2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="651276524a6892465688d2920f28072f4b35c6e7">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4f6850630267b88ddd8a6670582ee360b3d383c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/libs/android.arch.lifecycle.common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.lifecycle.common-1.0.0_9148c433c0e0f7aff49dca18eb26299c265f44d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/717b07625d9afcfd7c6ad23c05d90fdbedb287d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d5c9872f97093326e643dbda4ffea750ecd69ea5">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6e4c9ac51e8c18948634cba36ba233d74db2e9d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/5f465f09d22b9d3b3f96e0d98546ae8aa38a0c53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f744a72178e6404f6d20f3f7376a8e8efb9d4a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/4e543e6aadc6f6bd923b913cea0f6f1c739080de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f45e71ed54a27f78e104d23ede9d3fad931bb02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/3dbf3a60290243a192ac41d4b290e18f1a985598/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_db61dc81d32c128de236578055f3a541613bd32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/Firebase/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="40ff3be403f28768b5e51eb3a76547170dd88e95">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_8b0e20523eafc4592b53b47593e9bd7fe10c3042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/libs/com.android.support.support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/com.android.support.support-annotations-26.1.0_5a6c1f1048d9a4eb341fa140952130ceaf2777f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/52a7f56186b4a5386c3ccb631ff5d494a1f7a47d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6ff520d5283b90ff4bb3db6b82298c3f1acd220b">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_113aef5fe3f4803a599d18f216ba3fd483fa0b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/4a06f17df4f87ec6b6a154130d61293a7f2fac31/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b82fa24c8797e9521bc81f055c91a586a09cbe9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/a9bd77b7b083caf6865df4cbeedd436e7b6f5f18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f17c11e09f998e2864f823adc13b6e0bb0f62aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f55810fa32d299d8e1418095393f24faa6f66ab8">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_2d7c81db92702f501484fbd1c53099e9f6ca77a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/112993389e4acf60a68021ddb79d2b2223334194/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_53676f0b5077bb14d318a5ae12185df1e5b17b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/217af27adcfe78e61b51212d7655dff8bbdd100e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_22f99b9a8bee8192aa259ac83c6dd7f22e0bbd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/346bac4d6a78691f175eac1feb3b626827cc2258/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d6d0df85e017167b73d2b5b47ac2a34045123917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/libs/android.arch.core.common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.core.common-1.0.0_b20b41681108c544c08231c59cfbf4b7c7dceeb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/eb5cb0fc8366837716a23056aad5b1e3474407ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6d569b7ca0b2b10b81c94a3b28601cac5c43a160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/fae915b3a5433dbcf62f1ffec53e0a74fb6d33f6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_8d219b6bb451d139d76c8a3c4060f66f32e5bd62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/beaba3786c395b43f03708773b2b79106d77f778/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6dcd87d63f17b11d59b697b5144ef3df900e3a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/a1620e41e88c83b0728863fe2359621f9279b022/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_73c7d2bea15634064aef2650158b71736d8b2975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/4ffcac29a67c56e18ed87b55ee2c9eb9cb0ee3ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="034bf9ed8f8ee5c2ff5da922d095fbaacfc8a892">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_6edce0487e27f9565cdca0d8a5ac6c69712724f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/52d03a4b73c1efcd8489a8d06991b5afc93c7641/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_e0d42f41a16765a1c606a7876a0bbc2db33622e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/befabd41c2f50f8ebea51bbcbbd3a37717c740bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_53088587129a30f93228bd2af63bbe29fb2844a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/762f4ad9398c0ad1abd4442f0efd5fbde44523de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="637393020f93f1744e2e325a7da6706b81697efe">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a0782d1d3ffc4ff044a8536dbe40c740c03fdc07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/andresgaviria/.android/build-cache/9210cd713a265bf4e868b06da6b01e5f96109eec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/andresgaviria/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ffa6f1c548cada8ca11ca5ee8f9e574da467bdd0.jar" />
+    </item>
+
+</items>
