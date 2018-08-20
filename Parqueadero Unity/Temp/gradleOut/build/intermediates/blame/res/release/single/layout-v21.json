@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/res/layout-v21/notification_action.xml"
+    }
+]

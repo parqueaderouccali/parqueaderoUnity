@@ -1,0 +1,514 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-101
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:126-151
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:102-125
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:2:152-192
+supports-screens
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-26:17
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/MAC/.android/build-cache/0c9f71b8fe40f08684a9499055fef7fe710f3503/output/AndroidManifest.xml:24:5-28:19
+MERGED from [:com.android.support.animated-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a91249ed9c049ae2c8e42d42d162121e8c74d5a8/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.android.support.appcompat-v7-26.1.0:] /Users/MAC/.android/build-cache/d06ce1fe73d0cc5b19ad37a897f4dc6c083a1eb8/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.cardview-v7-26.1.0:] /Users/MAC/.android/build-cache/6de49cf6d6aebe5c1e18406f8c54c3cb7aab749d/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.android.support.customtabs-26.1.0:] /Users/MAC/.android/build-cache/e606cbf33ad90af5b5ac46b1f4e906e9fde1711d/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/MAC/.android/build-cache/9e17543ceb01dcbc64889c25689f87ba6187e229/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/MAC/.android/build-cache/6ec15b7bc8063446db2da3530b12bc248d55d941/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/MAC/.android/build-cache/e78d86db559127e084bcde47a27a5d48c97a8bc1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/MAC/.android/build-cache/3fc5f9a5da94adfbdf35831d2f94f33374947ff2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/MAC/.android/build-cache/99fdb35a3ef08799cb15c9f9352b8dc0d21fda9e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a3351168c6b7d21a28f7db18bb2a2b1a2ed766e0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/MAC/.android/build-cache/197cbd99fa6f79a100376065298e9711d1e39e4d/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/MAC/.android/build-cache/8d80aaa1dfab9c1141c523397b77b97f007e8e19/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.0:] /Users/MAC/.android/build-cache/1ad167526f6accc060a089c85e357ae9e232c935/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/MAC/.android/build-cache/b4d7f1194891e993373bd1f7ce743716a65a5a93/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/MAC/.android/build-cache/86f47658ab2f5331bb339049e8a1b2b95ebd652a/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:22:5-36:19
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/MAC/.android/build-cache/93719a6434d2bfb42622fdecefc05691b6f85dba/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:8:5-14:19
+MERGED from [:com.google.firebase.firebase-common-16.0.0:] /Users/MAC/.android/build-cache/7e7bfbb4777f1afe49bc1c3f4395abf103db6760/output/AndroidManifest.xml:8:5-14:19
+MERGED from [:com.google.firebase.firebase-core-16.0.1:] /Users/MAC/.android/build-cache/0cf295c0ae40ce6a52a3663faa18c536a997a0c9/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:34:5-63:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:34:5-63:19
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/MAC/.android/build-cache/678e41f6061f4acd619801d545021827d2eb7101/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-16.0.0:] /Users/MAC/.android/build-cache/c7c48ad81bd6fcb17eb83108c2faee17fe06c8d8/output/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:26:5-32:19
+MERGED from [:facebook-android-wrapper-7.12.1:] /Users/MAC/.android/build-cache/78637b9a445600a9538bdbd47cc755a2c4da57e9/output/AndroidManifest.xml:28:5-20
+MERGED from [:facebook-applinks:] /Users/MAC/.android/build-cache/5169de65cc3907d5a9e0ffa5972638b77f05ace2/output/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:28:5-34:19
+MERGED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:28:5-51:19
+MERGED from [:facebook-login:] /Users/MAC/.android/build-cache/53d87e22f82362c8a5b16e941de7f7280612ca59/output/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-messenger:] /Users/MAC/.android/build-cache/4f62ce73fc90ee25b39a417f1c7298358cadf299/output/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-places:] /Users/MAC/.android/build-cache/5d0af0035e1a3577e282757df4a2fbfccc0f3f7e/output/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-share:] /Users/MAC/.android/build-cache/20128acfccf788abdf33f951ec120803794c1764/output/AndroidManifest.xml:28:5-29:19
+	android:label
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:109-141
+	android:supportsRtl
+		ADDED from [:facebook-applinks:] /Users/MAC/.android/build-cache/5169de65cc3907d5a9e0ffa5972638b77f05ace2/output/AndroidManifest.xml:28:18-44
+	android:icon
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:75-108
+	android:banner
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:164-201
+	android:theme
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-74
+	android:isGame
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:4:142-163
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:hardwareAccelerated
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:launchMode
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:configChanges
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-301
+	android:configChanges
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:13:70-227
+	android:theme
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:13:228-298
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:13:15-69
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-303
+	android:configChanges
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:14:72-229
+	android:theme
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:14:230-300
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:14:15-71
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-98
+	android:exported
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:15:72-95
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:15:15-71
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:16:5-102
+	android:exported
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:16:76-99
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:16:15-75
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:17:15-75
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:18:15-79
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:19:15-77
+activity#com.facebook.unity.AppInviteDialogActivity
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:20:15-72
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:5-98
+	android:value
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:62-95
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:21:16-61
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:22:5-171
+	android:authorities
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:22:67-144
+	android:exported
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:22:145-168
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:22:15-66
+meta-data#unity.build-id
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:23:5-101
+	android:value
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:23:46-98
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:23:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:24:5-69
+	android:value
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:24:49-66
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:24:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:25:5-74
+	android:value
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:25:51-71
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:25:16-50
+uses-feature#0x00020000
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-52
+	android:glEsVersion
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:28:3-65
+MERGED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:28:20-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:29:3-88
+	android:required
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:29:61-85
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:29:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:30:3-99
+	android:required
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:30:72-96
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:30:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:31:3-108
+	android:required
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:31:81-105
+	android:name
+		ADDED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml:31:17-80
+uses-sdk
+INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/MAC/.android/build-cache/0c9f71b8fe40f08684a9499055fef7fe710f3503/output/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.android.support.animated-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a91249ed9c049ae2c8e42d42d162121e8c74d5a8/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.support.appcompat-v7-26.1.0:] /Users/MAC/.android/build-cache/d06ce1fe73d0cc5b19ad37a897f4dc6c083a1eb8/output/AndroidManifest.xml:21:5-23:78
+MERGED from [:com.android.support.cardview-v7-26.1.0:] /Users/MAC/.android/build-cache/6de49cf6d6aebe5c1e18406f8c54c3cb7aab749d/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.support.customtabs-26.1.0:] /Users/MAC/.android/build-cache/e606cbf33ad90af5b5ac46b1f4e906e9fde1711d/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/MAC/.android/build-cache/9e17543ceb01dcbc64889c25689f87ba6187e229/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/MAC/.android/build-cache/6ec15b7bc8063446db2da3530b12bc248d55d941/output/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/MAC/.android/build-cache/e78d86db559127e084bcde47a27a5d48c97a8bc1/output/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/MAC/.android/build-cache/3fc5f9a5da94adfbdf35831d2f94f33374947ff2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/MAC/.android/build-cache/99fdb35a3ef08799cb15c9f9352b8dc0d21fda9e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a3351168c6b7d21a28f7db18bb2a2b1a2ed766e0/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/MAC/.android/build-cache/197cbd99fa6f79a100376065298e9711d1e39e4d/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/MAC/.android/build-cache/8d80aaa1dfab9c1141c523397b77b97f007e8e19/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-flags-15.0.1:] /Users/MAC/.android/build-cache/64324c1ddba16e0a7d94e6da4884a5b8095dde2d/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.0:] /Users/MAC/.android/build-cache/1ad167526f6accc060a089c85e357ae9e232c935/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/MAC/.android/build-cache/b4d7f1194891e993373bd1f7ce743716a65a5a93/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/MAC/.android/build-cache/86f47658ab2f5331bb339049e8a1b2b95ebd652a/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-app-unity-5.2.0 3:] /Users/MAC/.android/build-cache/3ad84fc50d88b1b39991f2d7ed40925cf7bfedf0/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-5.2.0:] /Users/MAC/.android/build-cache/978e57f34e15f823723fc692b716015671bbda49/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/MAC/.android/build-cache/93719a6434d2bfb42622fdecefc05691b6f85dba/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-5.2.0 3:] /Users/MAC/.android/build-cache/2f7a22e38d09b72642e7daa8f5bef9fa65b1ee35/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-unity-5.2.0:] /Users/MAC/.android/build-cache/371521c64ccf2c9b2bd9eb708c32f23f1770b12a/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:5:5-6:37
+MERGED from [:com.google.firebase.firebase-common-16.0.0:] /Users/MAC/.android/build-cache/7e7bfbb4777f1afe49bc1c3f4395abf103db6760/output/AndroidManifest.xml:5:5-6:37
+MERGED from [:com.google.firebase.firebase-core-16.0.1:] /Users/MAC/.android/build-cache/0cf295c0ae40ce6a52a3663faa18c536a997a0c9/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/MAC/.android/build-cache/678e41f6061f4acd619801d545021827d2eb7101/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-16.0.0:] /Users/MAC/.android/build-cache/c7c48ad81bd6fcb17eb83108c2faee17fe06c8d8/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:20:5-44
+MERGED from [:facebook-android-wrapper-7.12.1:] /Users/MAC/.android/build-cache/78637b9a445600a9538bdbd47cc755a2c4da57e9/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-applinks:] /Users/MAC/.android/build-cache/5169de65cc3907d5a9e0ffa5972638b77f05ace2/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-login:] /Users/MAC/.android/build-cache/53d87e22f82362c8a5b16e941de7f7280612ca59/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-messenger:] /Users/MAC/.android/build-cache/4f62ce73fc90ee25b39a417f1c7298358cadf299/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-places:] /Users/MAC/.android/build-cache/5d0af0035e1a3577e282757df4a2fbfccc0f3f7e/output/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-share:] /Users/MAC/.android/build-cache/20128acfccf788abdf33f951ec120803794c1764/output/AndroidManifest.xml:24:5-26:41
+MERGED from [gradleOut:Firebase:unspecified] /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/Firebase/build/intermediates/bundles/default/AndroidManifest.xml:15:5-17:40
+	tools:overrideLibrary
+		ADDED from [:com.android.support.appcompat-v7-26.1.0:] /Users/MAC/.android/build-cache/d06ce1fe73d0cc5b19ad37a897f4dc6c083a1eb8/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/MAC/Documents/GitHub/parqueaderoUnity/Parqueadero Unity/Temp/gradleOut/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/MAC/.android/build-cache/0c9f71b8fe40f08684a9499055fef7fe710f3503/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/MAC/.android/build-cache/0c9f71b8fe40f08684a9499055fef7fe710f3503/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/MAC/.android/build-cache/0c9f71b8fe40f08684a9499055fef7fe710f3503/output/AndroidManifest.xml:26:13-58
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.animated-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a91249ed9c049ae2c8e42d42d162121e8c74d5a8/output/AndroidManifest.xml:23:9-25:38
+MERGED from [:com.android.support.appcompat-v7-26.1.0:] /Users/MAC/.android/build-cache/d06ce1fe73d0cc5b19ad37a897f4dc6c083a1eb8/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.cardview-v7-26.1.0:] /Users/MAC/.android/build-cache/6de49cf6d6aebe5c1e18406f8c54c3cb7aab749d/output/AndroidManifest.xml:23:9-25:38
+MERGED from [:com.android.support.customtabs-26.1.0:] /Users/MAC/.android/build-cache/e606cbf33ad90af5b5ac46b1f4e906e9fde1711d/output/AndroidManifest.xml:23:9-25:38
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/MAC/.android/build-cache/9d6d326933ccdb842a8e8f581c98fdc01e5e7da5/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/MAC/.android/build-cache/9e17543ceb01dcbc64889c25689f87ba6187e229/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/MAC/.android/build-cache/6ec15b7bc8063446db2da3530b12bc248d55d941/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/MAC/.android/build-cache/e78d86db559127e084bcde47a27a5d48c97a8bc1/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/MAC/.android/build-cache/3fc5f9a5da94adfbdf35831d2f94f33374947ff2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/MAC/.android/build-cache/99fdb35a3ef08799cb15c9f9352b8dc0d21fda9e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a3351168c6b7d21a28f7db18bb2a2b1a2ed766e0/output/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [:com.android.support.animated-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a91249ed9c049ae2c8e42d42d162121e8c74d5a8/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [:com.android.support.animated-vector-drawable-26.1.0:] /Users/MAC/.android/build-cache/a91249ed9c049ae2c8e42d42d162121e8c74d5a8/output/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/MAC/.android/build-cache/12f7ab0fc0cdff4cbed6a991ce4f394b37541100/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/MAC/.android/build-cache/8d80aaa1dfab9c1141c523397b77b97f007e8e19/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/MAC/.android/build-cache/8d80aaa1dfab9c1141c523397b77b97f007e8e19/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/MAC/.android/build-cache/8d80aaa1dfab9c1141c523397b77b97f007e8e19/output/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.1.1:] /Users/MAC/.android/build-cache/b5351f59ffe86be0f8cc5a7d741d07d20234c53d/output/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.1:] /Users/MAC/.android/build-cache/813851c9b545547dec29b94091f2c9f0059db612/output/AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:31:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:35:9-39:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:35:9-39:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.2:] /Users/MAC/.android/build-cache/4bda28adb76ea2bb4ba5aadeb1490db5370e488c/output/AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:9:9-13:39
+MERGED from [:com.google.firebase.firebase-common-16.0.0:] /Users/MAC/.android/build-cache/7e7bfbb4777f1afe49bc1c3f4395abf103db6760/output/AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-16.0.0 2:] /Users/MAC/.android/build-cache/ef08a6b323edb8fdf6cee1610fa66ea95c0f1e7e/output/AndroidManifest.xml:10:13-77
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:26:5-82
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:36:13-38:85
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:41:9-50:20
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:42:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:56:9-62:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:57:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0 3:] /Users/MAC/.android/build-cache/c4ab0e878d411281134aa7db07cf4fe358cb157f/output/AndroidManifest.xml:60:25-77
+permission#com.parqueadero.unity.permission.C2D_MESSAGE
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:28:5-30:47
+uses-permission#com.parqueadero.unity.permission.C2D_MESSAGE
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/MAC/.android/build-cache/8bb7428731788e6750a95117b82db64f90d39a2a/output/AndroidManifest.xml:32:5-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-16.0.1:] /Users/MAC/.android/build-cache/444bf9d5fc7c10048fc605c010fbfcb7de7f462b/output/AndroidManifest.xml:29:17-139
+activity#com.facebook.FacebookActivity
+ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [:facebook-common:] /Users/MAC/.android/build-cache/1072ee1a09116e623145a3279724fdb0a14b607b/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [:facebook-core:] /Users/MAC/.android/build-cache/0ccc9a0329dd0e06542a096e7ebd56299b03a10c/output/AndroidManifest.xml:48:25-92
