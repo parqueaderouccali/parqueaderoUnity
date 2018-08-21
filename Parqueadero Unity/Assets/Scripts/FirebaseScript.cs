@@ -16,7 +16,7 @@ public class FirebaseScript : MonoBehaviour {
 	public InputField EmailAddress, Password, PasswordValidate, Names , SecondNames;
 
 	string displayName;
-	string emailAddress;
+    string emailAddress;
 
 
 
@@ -170,7 +170,7 @@ public class FirebaseScript : MonoBehaviour {
 		string emailAddress = "warhammerjj28@gmail.com";
 
 
-		auth.SendPasswordResetEmailAsync(emailAddress).ContinueWith((obj) => {
+		auth.SendPasswordResetEmailAsync(EmailAddress.text).ContinueWith((obj) => {
 				if (obj.IsCanceled) {
 					Debug.LogError("SendPasswordResetEmailAsync was canceled.");
 					return;

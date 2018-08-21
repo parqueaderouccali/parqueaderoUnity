@@ -135,8 +135,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 19270076}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22, y: -44, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 22.999989, y: -74.137, z: 0}
+  m_LocalScale: {x: 1.633137, y: 1.6331378, z: 1.6331378}
   m_Children:
   - {fileID: 1553883423}
   - {fileID: 1295541057}
@@ -1269,8 +1269,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 649518702}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 21.999985, y: -81.999985, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 23, y: -136.2, z: 0}
+  m_LocalScale: {x: 1.633137, y: 1.6331378, z: 1.6331378}
   m_Children:
   - {fileID: 278309319}
   - {fileID: 960314412}
@@ -1383,9 +1383,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EmailAddress: {fileID: 278309320}
   Password: {fileID: 1916216830}
-  PasswordValidate: {fileID: 0}
-  Names: {fileID: 0}
-  SecondNames: {fileID: 0}
+  PasswordValidate: {fileID: 600046428}
+  Names: {fileID: 960314413}
+  SecondNames: {fileID: 228372624}
 --- !u!4 &759182799
 Transform:
   m_ObjectHideFlags: 0
@@ -2283,7 +2283,7 @@ RectTransform:
   m_GameObject: {fileID: 1215144064}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.1995726, y: 2.1995728, z: 2.1995728}
   m_Children: []
   m_Father: {fileID: 1347188573}
   m_RootOrder: 0
@@ -2464,7 +2464,7 @@ RectTransform:
   m_GameObject: {fileID: 1301291571}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.56, y: 1.56, z: 1.56}
   m_Children:
   - {fileID: 391000809}
   - {fileID: 2114817806}
@@ -2475,7 +2475,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -14, y: 0.28003}
   m_SizeDelta: {x: 470, y: 470}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1301291573
@@ -2534,7 +2534,7 @@ RectTransform:
   m_GameObject: {fileID: 1347188572}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.04, y: 1.04, z: 1.04}
   m_Children:
   - {fileID: 1215144065}
   - {fileID: 1301291572}
@@ -2543,7 +2543,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 15, y: -9}
+  m_AnchoredPosition: {x: 16.44, y: -9.404}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1455072980
@@ -2895,8 +2895,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1544780511}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.899979, y: 128.20003, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 11.404987, y: 207.09, z: 0}
+  m_LocalScale: {x: 1.633137, y: 1.6331378, z: 1.6331378}
   m_Children:
   - {fileID: 75938274}
   m_Father: {fileID: 1901754510}
@@ -2914,7 +2914,7 @@ GameObject:
   - component: {fileID: 1553883425}
   - component: {fileID: 1553883424}
   m_Layer: 5
-  m_Name: ButtonLogin
+  m_Name: ButtonRegister
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2980,18 +2980,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 759182798}
-        m_MethodName: LoginButtonPressed
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 759182798}
-        m_MethodName: InitializeFirebase
+        m_MethodName: CreateNewUserButtonPressed
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
